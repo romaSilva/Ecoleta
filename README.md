@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta aplicação foi desenvolvida durante a Next Level Week promovida pela [Rocketseat](https://rocketseat.com.br/). Durante essa semana os participantes puderam desenvolver uma aplicação para cadastro de pontos de coleta. O backend foi desenvovlvido com o [Node.js](https://nodejs.org/) e [SQlite](https://www.sqlite.org/index.html), o frontend foi desenvolvido com [ReactJS](https://reactjs.org/)
+Esta aplicação foi desenvolvida durante a Next Level Week promovida pela [Rocketseat](https://rocketseat.com.br/). Durante essa semana os participantes puderam desenvolver uma aplicação para cadastro de pontos de coleta. O backend foi desenvolvido com o [Node.js](https://nodejs.org/) e [SQlite](https://www.sqlite.org/index.html), o frontend foi desenvolvido com [ReactJS](https://reactjs.org/)
 
 ## 🔥 Como usar
 
