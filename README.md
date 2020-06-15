@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/)
 - [SQlite](https://www.sqlite.org/index.html)
 - [knex](http://knexjs.org/)
-- JavaScript
+- TypeScript
 - HTML5
 - CSS
 
