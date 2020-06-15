@@ -36,7 +36,7 @@ Esta aplicação foi desenvolvida durante a Next Level Week promovida pela [Rock
 ## 🔥 Como usar
 
 - É necessário ter o [Node.js](https://nodejs.org/en/) e [npm](https://www.npmjs.com/) instalados
-- Clone esse repositório: `git clone https://github.com/romaSilva/MovieList-React.git`
+- Clone esse repositório: `git clone https://github.com/romaSilva/Ecoleta.git`
   
 ### Backend
 - Instale as dependências do projeto, digitando no terminal: `npm install`
