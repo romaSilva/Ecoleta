@@ -45,7 +45,7 @@ Esta aplicação foi desenvolvida durante a Next Level Week promovida pela [Rock
 
 ### Frontend
 
-- Instale as dependências do projeto, digitando no termintal: `npm install`
+- Instale as dependências do projeto, digitando no terminal: `npm install`
 - Enfim, para rodar a aplicação digite: `npm start`
 ​
 
